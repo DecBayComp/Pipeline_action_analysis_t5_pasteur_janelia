@@ -30,8 +30,6 @@ Provide the path to all experiments folders (speed up the extract_output_screen_
 ### copy_perl_program_evrywhere_screen ###
 Copy a perl file into all folders containing an outline files used to load the contour of larvae.
 
-
-
 A “user-friendly” version of the code will soon be available in https://github.com/DecBayComp/Pipeline_action_analysis_public. 
 
 
